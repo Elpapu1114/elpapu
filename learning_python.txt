@@ -1,0 +1,5 @@
+En Python podés crear programas fácilmente.
+En Python podés trabajar con listas y diccionarios.
+En Python podés usar loops para repetir acciones.
+En Python podés definir funciones.
+En Python podés crear clases y objetos.
